@@ -28,7 +28,11 @@
   "engines": {
     "node": ">=18"
   },
-  "author": "Jitesh <jitesh-ss>",
+  "author": "jitesh-ss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jitesh-ss/auto-breakthrough-main.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "vitest": "^2.1.0"
